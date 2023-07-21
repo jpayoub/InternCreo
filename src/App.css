@@ -1,0 +1,26 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.title{
+  Color:#19CFFC;
+  text-align: center;
+}
+
+.container{
+  max-width: 1300px;
+  width:100%;
+  margin:auto;
+}
+
+
+
+
+
+
+
+
+
+
+
