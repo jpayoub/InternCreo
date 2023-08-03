@@ -43,11 +43,11 @@ const cardData = [
   function App() {
 
     return (
-      <div className='container'>
+      <div className='App'>
       
         <h1 className='title'>Pricing Options </h1>
 
-        <div className='App'>
+        <div className='container'>
 
         {cardData.map((card, index) => (
           <Card key={index} data={card} />

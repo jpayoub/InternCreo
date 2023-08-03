@@ -1,14 +1,18 @@
-.App {
+.container {
+  margin-top: 5%;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   text-align: center;
+
 }
 .title{
+  margin: 3%;
   Color:#19CFFC;
   text-align: center;
 }
 
-.container{
+.App{
   max-width: 1300px;
   width:100%;
   margin:auto;
